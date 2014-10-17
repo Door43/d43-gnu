@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gnu:home|Door43 (gnu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gnu|d43-gnu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gnu/archive/master.zip|d43-gnu.zip]]
+
+**Recent Changes**
+{{changes>ns = gnu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gnu|Ethnologue data]]
+
